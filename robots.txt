@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nazeer-ahmed-cs.github.io/sitemap.xml
